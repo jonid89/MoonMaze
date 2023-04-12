@@ -127,3 +127,4 @@
 # git config filter.UnityProFilter.clean 'sed "s/licenseType: .*/licenseType: Free/"'
 #Lighting data exception
 LightingData.asset filter=lfs diff=lfs merge=lfs -text
+Builds/WebGL/Build/WebGL.data.br filter=lfs diff=lfs merge=lfs -text
