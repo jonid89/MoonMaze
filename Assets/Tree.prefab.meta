@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Tree.prefab.meta
+guid: cc2a41d71bd18f4489645e5176e97e23
+PrefabImporter:
+=======
+guid: bc9b000e9b8028247bd816e159382646
+TextScriptImporter:
+>>>>>>> 5252f3b (Added player controller, moonpiece, and scripts.):Assets/Viking Village/Standard Assets/Characters/FirstPersonCharacter/FirstPersonCharacterGuidelines.txt.meta
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

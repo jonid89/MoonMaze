@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Materials/New Material.mat.meta
+guid: f82c7520f31183743a6b2df92d033d1b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+=======
+guid: 6a87082c352454e3db3041e7033645e8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+>>>>>>> 5252f3b (Added player controller, moonpiece, and scripts.):Assets/Viking Village/Animations/build_crane_01.controller.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

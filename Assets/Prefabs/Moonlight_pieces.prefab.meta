@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/New Terrain.asset.meta
+guid: b30b286bb2f670e429719129a6038ab3
+NativeFormatImporter:
+=======
+guid: d5a0e36c91159ae46a1ef89f6ccc25ec
+PrefabImporter:
+>>>>>>> 5252f3b (Added player controller, moonpiece, and scripts.):Assets/Prefabs/Moonlight_peaces.prefab.meta
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
